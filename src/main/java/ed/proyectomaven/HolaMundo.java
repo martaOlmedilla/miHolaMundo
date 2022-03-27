@@ -16,6 +16,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola soy pepe");
+        System.out.println("Te equivocas, Pepe era yo");
     }
     
 }
